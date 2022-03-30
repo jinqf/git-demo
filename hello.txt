@@ -6,3 +6,4 @@ hello Yike5 55!
 当前是master
 hot edit
 github 更新了
+git clone 更新了
